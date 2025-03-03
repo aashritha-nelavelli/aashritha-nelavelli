@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="MasterHead">
 </div>
-<h1 align="center">Hi👋, I'm Lakshmi Vijaya Aashritha Nealvelli</h1>
+<h1 align="center">Hi👋, I'm Lakshmi Vijaya Aashritha Nelavelli</h1>
 
 🎓 **Master's in Computer Science**  
 📍 **Binghamton University**  
